@@ -1,3 +1,1 @@
-# react-2dj7a7
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-2dj7a7)
+## Rect.js App with drag and drop options: Control of Designate
